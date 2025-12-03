@@ -7,7 +7,7 @@ const About: React.FC = () => {
         className="text-5xl font-bold text-black mb-4"
         style={{ fontFamily: 'Space Grotesk, sans-serif' }}
       >
-        About Arch
+        Arch Lending
       </h1>
       <p className="text-xl text-gray-600 max-w-2xl mx-auto mt-4">
         We're committed to providing secure, transparent, and personalized
