@@ -9,10 +9,6 @@ const About: React.FC = () => {
       >
         About Arch
       </h1>
-      <p className="text-xl text-gray-600 max-w-2xl mx-auto">
-        Empowering Bitcoin holders to access liquidity without giving up their
-        long-term investment strategy.
-      </p>
       <p className="text-xl text-gray-600 max-w-2xl mx-auto mt-4">
         We're committed to providing secure, transparent, and personalized
         financial solutions that help you make the most of your digital assets.
