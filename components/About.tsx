@@ -13,6 +13,10 @@ const About: React.FC = () => {
         We're committed to providing secure, transparent, and personalized
         financial solutions that help you make the most of your digital assets.
       </p>
+      <p className="text-xl text-gray-600 max-w-2xl mx-auto mt-4">
+        With a focus on innovation and customer service, Arch is building the
+        future of crypto-backed lending.
+      </p>
     </div>
   );
 };
