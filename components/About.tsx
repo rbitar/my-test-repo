@@ -1,24 +1,9 @@
 import React from 'react';
 
-const About: React.FC = () => {
+export default function About() {
   return (
-    <div className="text-center">
-      <h1
-        className="text-5xl font-bold text-black mb-4"
-        style={{ fontFamily: 'Space Grotesk, sans-serif' }}
-      >
-        Arch Lending
-      </h1>
-      <p className="text-xl text-gray-600 max-w-2xl mx-auto mt-4">
-        We're committed to providing secure, transparent, and personalized
-        financial solutions that help you make the most of your digital assets.
-      </p>
-      <p className="text-xl text-gray-600 max-w-2xl mx-auto mt-4">
-        With a focus on innovation and customer service, Arch is building the
-        future of crypto-backed lending.
-      </p>
+    <div>
+      <h1>About Us</h1>
     </div>
   );
-};
-
-export default About;
+}
