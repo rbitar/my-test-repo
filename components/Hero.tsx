@@ -11,7 +11,7 @@ export default function Hero() {
 
         {/* Main Heading */}
         <h1 className="text-4xl lg:text-5xl font-medium text-gray-900 mb-6 leading-tight">
-          Put your Bitcoin to work –
+          <strong>Put your Bitcoin to work</strong> –
           <span
             className="italic font-normal"
             style={{
